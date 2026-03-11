@@ -167,11 +167,7 @@ cela supprime les données.
 > Pourquoi ne met-on pas les données directement dans le container ?
 > Quel composant est stateful ? Lequel est stateless ?
 
-
-## Étape 7 — Questions finales
-
-- Qu’est-ce qui empêche ce projet d’être une vraie prod cloud ?
-- Que se passe-t-il si le serveur tombe ?
+---
 
 ## Ce que vous savez faire à la fin
 
