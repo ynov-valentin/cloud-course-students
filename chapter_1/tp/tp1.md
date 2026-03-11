@@ -250,6 +250,11 @@ docker stats
 
 ### Docker Compose
 
+Lancement des services avec build (utile après avoir modifier son code)
+```bash
+docker compose up --build
+```
+
 Logs d’un service Compose :
 ```bash
 docker compose logs -f api
